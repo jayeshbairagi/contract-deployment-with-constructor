@@ -1,0 +1,14 @@
+{
+  "name": "contract-deployment-with-constructor",
+  "version": "1.0.0",
+  "description": "This package helps in understanding the steps to deploy a contract with constructor parameters using ethereum-js, solc and web3 packages by encoding the bytecode",
+  "main": "index.js",
+  "keywords": ["web3", "solc", "ethereumjs-tx"],
+  "author": "Jayesh Bairagi",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "solc": "^0.6.12",
+    "web3": "^1.2.11"
+  }
+}
